@@ -1,7 +1,7 @@
 from unittest import main, TestCase
 from unittest.mock import patch
 
-from fib_py.fib_calcs.fib_numbers \
+from gcardella_fib_py.fib_calcs.fib_numbers \
     import calculate_numbers
 
 

@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 
 setup(
-    name="fib_py",
+    name="gcardella_fib_py",
     version="0.0.1",
     author="Joe C",
     author_email="",
@@ -23,7 +23,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'fib-number = fib_py.cmd.fib_numb:fib_numb',
+            'fib-number = gcardella_fib_py.cmd.fib_numb:fib_numb',
         ],
     },
     python_requires='>=3',

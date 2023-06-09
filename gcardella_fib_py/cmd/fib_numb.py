@@ -1,6 +1,6 @@
 import argparse
 
-from fib_py.fib_calcs.fib_number \
+from gcardella_fib_py.fib_calcs.fib_number \
     import recurring_fibonacci_number
 
 
